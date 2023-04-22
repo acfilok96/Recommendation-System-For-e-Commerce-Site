@@ -17,23 +17,26 @@ When a new customer without any previous purchase history visits the e-commerce 
 
 
 Recommendation System - Part I:- 
+-------------------------------
 
-Product popularity based recommendation system targeted at new customers
-------------------------------------------------------------------------
+## Product popularity based recommendation system targeted at new customers
+
 1. Popularity based are a great strategy to target the new customers with the most popular products sold on a business's website and is very useful to cold start a recommendation engine.
 
 
 
 Recommendation System - Part II:- 
+---------------------------------
 
-Model-based collaborative filtering system
-------------------------------------------
+## Model-based collaborative filtering system
+
 1. Recommend items to users based on purchase history and similarity of ratings provided by other users who bought items to that of a particular customer.
 2. A model based collaborative filtering technique is closen here as it helps in making predictinfg products for a particular user by identifying patterns based on preferences from multiple user data.
 
 
 
 Recommendation System - Part III:- 
+---------------------------------
 
 For a business without any user-item purchase history, a search engine based recommendation system can be designed for users. The product recommendations can be based on textual clustering analysis given in product description.
 
